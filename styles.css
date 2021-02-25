@@ -1,0 +1,93 @@
+.propic {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 5px solid #000;
+    border-color: #d2e603#32e0c4;
+    border-style: solid;
+}
+
+body {
+    font-weight: bold;
+    margin-left: 100px;
+    margin-top: 50px;
+    font-family: 'Ledger', serif;
+    font-size: 20px;
+    background-image: url('https://www.xmple.com/wallpaper/gradient-linear-blue-green-1920x1080-c2-00ffff-90ee90-a-300-f-14.svg');
+    background-size: 2000px 2000px;
+    background-repeat: no-repeat;
+}
+
+
+
+.name {
+    color: #0f3057;
+    font-size: 45px;
+    font-family: 'Playfair Display', serif;
+}
+
+.hobbies {
+    color: #794c74;
+    font-family: 'Josefin Slab', serif;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.favent {
+    color: #b83c70;
+    font-family: 'Lobster Two', cursive;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.h3 {
+    color: #BA6FDF;
+    font-family: 'Josefin Slab', serif;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.five {
+    color: #ff5412;
+    font-family: 'Fondamento', cursive;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.cn {
+    color: #590995;
+    font-family: 'Josefin Slab', serif;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+mark {
+    background-color: cyan;
+}
+
+a:hover {
+    background-color: yellow;
+}
+
+a {
+    color: brown;
+    text-decoration: none;
+}
+html {
+    border: 10px ridge #000;
+    border-color:#f0e2aa#f22116#31b81f#000000;
+
+}
+.scarves {
+    height: 200px;
+    width: 250px;
+    border-radius: 50%;
+    border: 5px solid #000;
+    border-color: #fcfb9f;
+}
+
+    
+   
+    
+
+    
